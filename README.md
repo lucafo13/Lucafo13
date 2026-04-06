@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Luca, ou minerin
 
-### hellou povo
+### hellou guys
 
 
 Atualmente focado em construir um **Wiki de Limbus Company** Brasileiro pra facilitar nossa vida triste.
@@ -18,6 +18,9 @@ Atualmente focado em construir um **Wiki de Limbus Company** Brasileiro pra faci
 - **nivel:** iniciante mas nem tanto
 - **Linguagem:** focando em programação web(HTML, CSS, JS), estudando sobre e avançando poquin por poquin. busco aprendizado
 - **random:** mineiro com hiperfoco em café;-;
+- **redes:** insta: https://www.instagram.com/luca_x1305?igsh=Ynl5OWx3N21seWNq
+             email: odavilucas587@gmail.com
+
 ---
 
 ### 📊 GitHub Stats

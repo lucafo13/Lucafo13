@@ -3,7 +3,7 @@
 ### hellou povo
 
 
-Atualmente focado em construir a maior **Wiki de Limbus Company** do Brasil.
+Atualmente focado em construir um **Wiki de Limbus Company** Brasileiro pra facilitar nossa vida triste.
 
 ---
 

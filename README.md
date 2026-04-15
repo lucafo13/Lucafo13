@@ -20,7 +20,7 @@ Atualmente focado em construir um **Wiki de Limbus Company** Brasileiro pra faci
 - **random:** mineiro com hiperfoco em café;-;
 - **redes:** insta: https://www.instagram.com/luca_x1305?igsh=Ynl5OWx3N21seWNq
              email: odavilucas587@gmail.com
-
+             novo email pq passei vergonha na aula de programação e n consegui mandar .zip pq o gmail e fresco com js: DLucas_FO@protonmail.com
 ---
 
 ### 📊 GitHub Stats

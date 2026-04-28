@@ -1,5 +1,4 @@
-# 👋 Olá, eu sou o Luca, ou minerin
-
+# hello
 ### hellou guys
 
 

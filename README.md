@@ -2,7 +2,7 @@
 ### hellou guys
 
 
-Atualmente focado em construir um **Wiki de Limbus Company** Brasileiro pra facilitar nossa vida triste.
+Atualmente focado em dormir 
 
 ---
 
@@ -12,14 +12,14 @@ Atualmente focado em construir um **Wiki de Limbus Company** Brasileiro pra faci
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
- **Projeto Atual:** [Wiki Limbus Company BR](https://lucafo13.github.io/Wiki-Limbus-Company-BR-TBID-/Limbus_Company_Fan_Page/principal/index.html)
-- **Hobby:** sadomasoquismo em formato de programação, leitura, filosofia, project moon,durmir, Hawaii pt2
+ **Projeto Atual:** sono
+- **Hobby:** sadomasoquismo em formato de programação
 - **nivel:** iniciante mas nem tanto
-- **Linguagem:** focando em programação web(HTML, CSS, JS), estudando sobre e avançando poquin por poquin. busco aprendizado
-- **random:** mineiro com hiperfoco em café;-;
+- **Linguagem:** focando em programação web(HTML, CSS, JS e tambem c++, GML, python e oq deus mandar), estudando sobre e avançando poquin por poquin. busco comer cimento
+- **random:** café
 - **redes:** insta: https://www.instagram.com/luca_x1305?igsh=Ynl5OWx3N21seWNq
              email: odavilucas587@gmail.com
-             novo email pq passei vergonha na aula de programação e n consegui mandar .zip pq o gmail e fresco com js: DLucas_FO@protonmail.com
+  DLucas_FO@protonmail.com
 ---
 
 ### 📊 GitHub Stats

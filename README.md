@@ -11,11 +11,14 @@
 
 
  **Projeto Atual:** sono
-- **Linguagem:**  web(HTML, CSS, JS. React, Tailwind e os krait) backend: (node.js) e oq vier.
-- **random:** café
+- **Linguagem:**  web(HTML, CSS, JS. React, Tailwind e os krait) backend: (node.js com ts ou js, C#) e oq vier.
+- **café**
 - **redes:** insta: https://www.instagram.com/luca_x1305?igsh=Ynl5OWx3N21seWNq
              email: odavilucas587@gmail.com
   DLucas_FO@protonmail.com
+<p align="center">
+  <img src="https://media1.tenor.com/m/pVKc-0ZVFTAAAAAC/limbus-company-hong-lu.gif" width="400">
+</p>
 ---
 
 ### 📊 GitHub Stats

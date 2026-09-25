@@ -4,8 +4,23 @@
 
 
 ---
-<img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUybmFiMzI5c3BncTI2YWxld3V6c2J6OWluNWpmaGJsZnA5d3A0ZmRzbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dl5J48UhxATdtFyqlZ/source.gif" width="150">
-###Meu Setup & Tech
+<p align="center">
+  <img src="https://media.tenor.com/4tW3iWTeOugAAAAj/victini.gif">
+</p>
+<br>
+<p align="center">
+  <img src="LINK_HTML" width="55">
+  <img src="LINK_CSS" width="55">
+  <img src="LINK_JS" width="55">
+  <img src="LINK_REACT" width="55">
+  <img src="LINK_TS" width="55">
+  <img src="LINK_NODE" width="55">
+  <img src="LINK_TAILWIND" width="55">
+  <img src="LINK_GIT" width="55">
+  <img src="LINK_LINUX" width="55">
+</p>
+
+### Meu Setup & Tech
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) 
 ![Hyprland](https://img.shields.io/badge/Hyprland-33ccff?style=for-the-badge&logo=hyprland&logoColor=white)
 

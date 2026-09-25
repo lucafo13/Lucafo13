@@ -10,14 +10,14 @@
 <br>
 <p align="center">
   <img src="https://cdn.simpleicons.org/express" width="55">
-  <img src="LINK_CSS" width="55">
-  <img src="LINK_JS" width="55">
-  <img src="LINK_REACT" width="55">
-  <img src="LINK_TS" width="55">
-  <img src="LINK_NODE" width="55">
-  <img src="LINK_TAILWIND" width="55">
-  <img src="LINK_GIT" width="55">
-  <img src="LINK_LINUX" width="55">
+  <img src="https://cdn.simpleicons.org/react" width="55">
+  <img src="https://cdn.simpleicons.org/postgresql" width="55">
+  <img src="" width="55">
+  <img src="https://cdn.simpleicons.org/csharp" width="55">
+  <img src="" width="55">
+  <img src="https://cdn.simpleicons.org/nodedotjs" width="55">
+  <img src="https://cdn.simpleicons.org/docker" width="55">
+  <img src="https://cdn.simpleicons.org/linux" width="55">
 </p>
 
 ### Meu Setup & Tech

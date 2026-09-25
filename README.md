@@ -12,9 +12,9 @@
   <img src="https://cdn.simpleicons.org/express" width="55">
   <img src="https://cdn.simpleicons.org/react" width="55">
   <img src="https://cdn.simpleicons.org/postgresql" width="55">
-  <img src="" width="55">
+  <img src="https://cdn.simpleicons.org/tailwindcss" width="55">
   <img src="https://cdn.simpleicons.org/csharp" width="55">
-  <img src="" width="55">
+  <img src="https://cdn.simpleicons.org/typescript" width="55">
   <img src="https://cdn.simpleicons.org/nodedotjs" width="55">
   <img src="https://cdn.simpleicons.org/docker" width="55">
   <img src="https://cdn.simpleicons.org/linux" width="55">

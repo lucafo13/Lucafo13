@@ -4,8 +4,8 @@
 
 
 ---
-
-### 💻 Meu Setup & Tech
+<img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUybmFiMzI5c3BncTI2YWxld3V6c2J6OWluNWpmaGJsZnA5d3A0ZmRzbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dl5J48UhxATdtFyqlZ/source.gif" width="150">
+###Meu Setup & Tech
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) 
 ![Hyprland](https://img.shields.io/badge/Hyprland-33ccff?style=for-the-badge&logo=hyprland&logoColor=white)
 
@@ -39,3 +39,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+,

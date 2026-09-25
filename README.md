@@ -13,7 +13,7 @@
   <img src="https://cdn.simpleicons.org/react" width="55">
   <img src="https://cdn.simpleicons.org/postgresql" width="55">
   <img src="https://cdn.simpleicons.org/tailwindcss" width="55">
-  <img src="https://cdn.simpleicons.org/csharp" width="55">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/csharp.svg" width="55">
   <img src="https://cdn.simpleicons.org/typescript" width="55">
   <img src="https://cdn.simpleicons.org/nodedotjs" width="55">
   <img src="https://cdn.simpleicons.org/docker" width="55">

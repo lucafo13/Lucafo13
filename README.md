@@ -21,23 +21,42 @@
 </p>
 
 ### Meu Setup & Tech
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) 
+
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/Hyprland-33ccff?style=for-the-badge&logo=hyprland&logoColor=white)
 
+**Projeto atual:** `sono`
 
- **Projeto Atual:** sono
-- **Linguagem:**  web(HTML, CSS, JS. React, Tailwind e os krait) backend: (node.js com ts ou js, C#) e oq vier.
-- **café**
-- **redes:** insta: https://www.instagram.com/luca_x1305?igsh=Ynl5OWx3N21seWNq
-             email: odavilucas587@gmail.com
-  DLucas_FO@protonmail.com
+**Frontend:**  
+HTML · CSS · JavaScript · React · Tailwind e os krait
+
+**Backend:**  
+Node.js · TypeScript · JavaScript · C# · e oq vier
+
+**Banco de dados:**  
+PostgreSQL · MongoDB
+
+**Sistema:**  
+Arch Linux + Hyprland
+
+**Combustível:**  
+café
+
+### Redes
+
+Instagram: [@luca_x1305](https://www.instagram.com/luca_x1305)
+
+Email: `odavilucas587@gmail.com`  
+Email: `DLucas_FO@protonmail.com`
+
 <p align="center">
   <img src="https://media1.tenor.com/m/pVKc-0ZVFTAAAAAC/limbus-company-hong-lu.gif" width="400">
 </p>
+
+---
 ---
 
-### 📊 GitHub Stats
-![Meus Stats](https://github-readme-stats.vercel.app/api?username=lucafo13&show_icons=true&theme=tokyonight)
+
 
 
 <!--

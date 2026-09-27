@@ -15,6 +15,7 @@
   <img src="https://cdn.simpleicons.org/postgresql" width="55">
   <img src="https://cdn.simpleicons.org/tailwindcss" width="55">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/csharp.svg" width="55">
+<img src="https://cdn.simpleicons.org/dotnet" width="55">
   <img src="https://cdn.simpleicons.org/typescript" width="55">
 <img src="https://cdn.simpleicons.org/javascript" width="55">
   <img src="https://cdn.simpleicons.org/nodedotjs" width="55">

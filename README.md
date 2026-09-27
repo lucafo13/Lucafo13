@@ -11,6 +11,7 @@
 <p align="center">
   <img src="https://cdn.simpleicons.org/express" width="55">
   <img src="https://cdn.simpleicons.org/react" width="55">
+<img src="https://cdn.simpleicons.org/prisma" width="55">
   <img src="https://cdn.simpleicons.org/postgresql" width="55">
   <img src="https://cdn.simpleicons.org/tailwindcss" width="55">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/csharp.svg" width="55">

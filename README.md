@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://cdn.simpleicons.org/express" width="55">
   <img src="https://cdn.simpleicons.org/react" width="55">
-
+  <img src="https://cdn.simpleicons.org/mysql" width="55">
   <img src="https://cdn.simpleicons.org/postgresql" width="55">
   <img src="https://cdn.simpleicons.org/tailwindcss" width="55">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/csharp.svg" width="55">
@@ -37,7 +37,8 @@ HTML · CSS · JavaScript · React · Tailwind e os krait
 Node.js · TypeScript · JavaScript · C# · e oq vier
 
 **Banco de dados:**  
-PostgreSQL · MongoDB
+PostgreSQL · MongoDB  · Mysql  · MariaDB
+
 
 **Sistema:**  
 Arch Linux + Hyprland
